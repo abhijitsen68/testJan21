@@ -1,3 +1,9 @@
 This is my first example
 Created by Abhijit Sen
 January 21,2018
+The following new line is added:
+Commit the changes
+
+Another new line is addded:
+Commit the changes
+
